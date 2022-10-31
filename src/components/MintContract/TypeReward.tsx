@@ -96,9 +96,9 @@ const TypeReward: React.FC<Props> = ({ icon, name, value, apy, earn, color, colo
       </BoxContract>
 
       <ViewInfo>
-        <Text>{value} 0xB</Text>
+        <Text>{value} 0xRise</Text>
         <Text>{apy}% APY</Text>
-        <Text>Earn {earn} 0xB/day</Text>
+        <Text>Earn {earn} 0xRise/day</Text>
 
         <BoxDetail>
           <div style={{ width: '143px', height: '37px' }}>

@@ -87,7 +87,7 @@ const Tokens: React.FC<Props> = () => {
           <BoxSale>
             <Sale>20%</Sale>
             <Text>
-              <span>Token</span> in Liquidity Pool (50% 0xB, 50% AVAX)
+              <span>Token</span> in Liquidity Pool (50% 0xRise, 50% AVAX)
             </Text>
           </BoxSale>
         </Grid>
@@ -103,7 +103,7 @@ const Tokens: React.FC<Props> = () => {
           <BoxSale>
             <Sale>50%</Sale>
             <Text>
-              <span>Token</span> in Rewards Wallet (100% 0xB)
+              <span>Token</span> in Rewards Wallet (100% 0xRise)
             </Text>
           </BoxSale>
         </Grid>

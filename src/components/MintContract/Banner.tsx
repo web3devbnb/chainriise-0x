@@ -78,7 +78,7 @@ const ButtonWallet = styled(Button)<ButtonProps>(({ theme }) => ({
 const Banner: React.FC<Props> = () => {
   return (
     <BannerWrapper>
-      <Text>Mint 0xBlock Reward Contracts (0xRC) and get steady stream of Rewards in 0xBlock (0xB) tokens</Text>
+      <Text>Mint 0xRise Reward Contracts (0xRC) and get steady stream of Rewards in 0xRise (0xRise) tokens</Text>
 
       <BoxRight>
         <Wallet>

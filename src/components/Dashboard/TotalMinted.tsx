@@ -129,8 +129,8 @@ const TotalMinted: React.FC<Props> = () => {
 
         <BoxRight>
           <Box>
-            <Description>5 0xB</Description>
-            <Description>Earn 0.03 0xB/day</Description>
+            <Description>5 0xRise</Description>
+            <Description>Earn 0.03 0xRise/day</Description>
             <Description>250% APY</Description>
           </Box>
         </BoxRight>
@@ -155,8 +155,8 @@ const TotalMinted: React.FC<Props> = () => {
 
         <BoxRight>
           <Box>
-            <Description>15 0xB</Description>
-            <Description>Earn 0.16 0xB/day</Description>
+            <Description>15 0xRise</Description>
+            <Description>Earn 0.16 0xRise/day</Description>
             <Description>400% APY</Description>
           </Box>
         </BoxRight>
@@ -181,8 +181,8 @@ const TotalMinted: React.FC<Props> = () => {
 
         <BoxRight>
           <Box>
-            <Description>30 0xB</Description>
-            <Description>Earn 0.41 0xB/day</Description>
+            <Description>30 0xRise</Description>
+            <Description>Earn 0.41 0xRise/day</Description>
             <Description>500% APY</Description>
           </Box>
         </BoxRight>

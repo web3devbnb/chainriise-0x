@@ -40,8 +40,8 @@ const ClaimRewards: React.FC<Props> = () => {
     <Wrapper>
       <Title>Claim Rewards Tax</Title>
       <Pool>
-        Every time a user claims rewards, a 10% tax will be applied and redirected to the 0xBlock Liquidity Pool (50%
-        0xB, 50% AVAX)
+        Every time a user claims rewards, a 10% tax will be applied and redirected to the 0xRise Liquidity Pool (50%
+        0xRise, 50% BNB)
       </Pool>
     </Wrapper>
   );
